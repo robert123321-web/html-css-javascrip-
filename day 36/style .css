@@ -1,0 +1,23 @@
+.clicked {
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+#square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
+
+.testing{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
